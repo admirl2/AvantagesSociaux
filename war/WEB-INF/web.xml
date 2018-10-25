@@ -16,6 +16,16 @@
     <url-pattern>/avantagessociaux/greet</url-pattern>
   </servlet-mapping>
   
+  <servlet>
+    <servlet-name>userServlet</servlet-name>
+    <servlet-class>com.avantages.sociaux.server.UserServiceImpl</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>userServlet</servlet-name>
+    <url-pattern>/avantagessociaux/user</url-pattern>
+  </servlet-mapping>
+  
   <!-- Default page to serve -->
   <welcome-file-list>
     <welcome-file>AvantagesSociaux.html</welcome-file>
