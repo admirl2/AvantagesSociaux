@@ -3,8 +3,10 @@
 	<persistence-unit name="JPAProject">
 	    <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
 	    <class>com.avantages.sociaux.shared.model.Utilisateurs</class>
-	     <class>com.avantages.sociaux.shared.model.TableConnexion</class>
-	     <properties>
+	     <class>com.avantages.sociaux.shared.model.TableConnexion</class>	     
+	     <class>com.avantages.sociaux.shared.model.TableEmployes</class>
+	     <class>com.avantages.sociaux.shared.model.TableDeclaration</class>	     
+	<properties>
       <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/avantage"/>
       <property name="javax.persistence.jdbc.password" value="admirl"/>
       <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>

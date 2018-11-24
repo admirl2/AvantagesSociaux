@@ -1,0 +1,2 @@
+serviceClass: com.avantages.sociaux.client.services.EmployesService
+path: E5498BB2E5462EF956176DC5BB6BE7E0.gwt.rpc

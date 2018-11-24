@@ -1,0 +1,5 @@
+# Module avantagessociaux
+# RPC service class, partial path of RPC policy file
+com.avantages.sociaux.client.services.EmployesService, E5498BB2E5462EF956176DC5BB6BE7E0.gwt.rpc
+com.avantages.sociaux.client.services.UserService, E3D17723C737D5A50C9FC561141CC8ED.gwt.rpc
+com.avantages.sociaux.client.GreetingService, 1BE016EA64C8131FAA786CF582C521BD.gwt.rpc

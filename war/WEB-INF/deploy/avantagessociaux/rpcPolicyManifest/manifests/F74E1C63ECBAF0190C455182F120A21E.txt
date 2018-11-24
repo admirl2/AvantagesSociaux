@@ -1,0 +1,2 @@
+serviceClass: com.avantages.sociaux.client.GreetingService
+path: 1BE016EA64C8131FAA786CF582C521BD.gwt.rpc
